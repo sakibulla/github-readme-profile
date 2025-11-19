@@ -21,10 +21,7 @@ I enjoy learning new technologies and improving my problem-solving skills throug
 
 
 ## 🌐 Connect With Me
-<p align="left">
-  <a href="https://twitter.com/hasanfahmid1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
-  </a>
+
   <a href="https://fb.com/sakibfahmid002" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_(2019).svg" width="40"/>
   </a>
